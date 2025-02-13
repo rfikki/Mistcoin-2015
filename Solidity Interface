@@ -1,0 +1,1 @@
+contract MyToken{function MyToken(uint256 _supply,string _name,string _symbol,uint8 _decimals);function name()constant returns(string );function decimals()constant returns(uint8 );function balanceOf(address )constant returns(uint256 );function symbol()constant returns(string );function transfer(address _to,uint256 _value);}
