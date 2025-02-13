@@ -1,0 +1,8 @@
+Creation: unknown + 143200
+External:
+  balanceOf(address): 283
+  decimals(): 195
+  name(): unknown
+  symbol(): unknown
+  transfer(address,uint256): 42853
+Internal:
